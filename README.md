@@ -1,5 +1,4 @@
-My name is Ziyue “Alan” Xiang, I am currently a PhD candidate at Purdue ECE. 
-I am a research assistant at Prof. Edward J. Delp’s [VIPER](https://engineering.purdue.edu/~ips/) lab. 
+My name is Ziyue “Alan” Xiang.
 My research interests are computer vision, machine learning, and media forensics.
 
 <!---
